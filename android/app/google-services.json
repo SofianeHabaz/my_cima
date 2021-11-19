@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955953896595",
+    "project_id": "my-cima-c871f",
+    "storage_bucket": "my-cima-c871f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955953896595:android:a9e4b4b2e5210b1f408166",
+        "android_client_info": {
+          "package_name": "com.example.my_cima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955953896595-h507ceqokq9gvdop9lffeccbqfalodm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOkipjIupPq6hSN_xW_puHYkUZJYpjmgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955953896595-h507ceqokq9gvdop9lffeccbqfalodm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
